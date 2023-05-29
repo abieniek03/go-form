@@ -1,7 +1,8 @@
 <script setup lang="ts">
-import Header from '../components/Elements/Header.vue';
+import Header from '../components/elements/Header.vue';
 import About from '../components/sections/About.vue';
 import Form from '../components/sections/Form.vue';
+import Footer from '../components/elements/Footer.vue';
 </script>
 
 <template>
@@ -13,5 +14,6 @@ import Form from '../components/sections/Form.vue';
 			<About />
 		</div>
 		<Form />
+		<Footer />
 	</div>
 </template>

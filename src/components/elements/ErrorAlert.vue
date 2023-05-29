@@ -21,5 +21,3 @@ defineProps<{ info: string }>();
 		<div><span class="font-medium">Wystąpił błąd!</span> {{ info }}</div>
 	</div>
 </template>
-
-<style scoped></style>

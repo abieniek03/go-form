@@ -15,5 +15,3 @@ defineProps<{ label: string; options: string[] }>();
 		</select>
 	</div>
 </template>
-
-<style scoped></style>

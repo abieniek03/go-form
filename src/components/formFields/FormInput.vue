@@ -15,5 +15,3 @@ defineProps<{ label: string; id: string; type?: string; minValue?: string; maxVa
 		/>
 	</div>
 </template>
-
-<style scoped></style>

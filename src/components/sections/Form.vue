@@ -95,5 +95,3 @@ const calcParameters = (e: Event) => {
 		</div>
 	</Content>
 </template>
-
-<style scoped></style>
