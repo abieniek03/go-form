@@ -6,6 +6,7 @@ import Result from '../views/Result.vue';
 const routes = [
 	{ path: '/', component: Home },
 	{ path: '/rezultat', component: Result },
+	{ path: '/:pathMatch(.*)*', redirect: '/' },
 ];
 
 const router = createRouter({
