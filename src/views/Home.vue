@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import Header from '../components/Header.vue';
+import Header from '../components/Elements/Header.vue';
 import About from '../components/sections/About.vue';
 import Form from '../components/sections/Form.vue';
 </script>

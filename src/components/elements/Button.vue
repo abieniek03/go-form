@@ -1,7 +1,7 @@
 <script setup lang="ts">
 defineProps<{ type?: string; label: string; path?: string; styles?: string }>();
 const defaultStyles: string =
-	' bg-primary hover:bg-primary-hover text-white px-5 py-3  font-medium text-center rounded-lg';
+	' bg-primary hover:bg-primary-hover text-white px-5 py-3 font-medium text-center rounded-lg';
 </script>
 
 <template>
