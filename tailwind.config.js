@@ -9,6 +9,7 @@ export default {
 				primary: '#BF2B2B',
 				'primary-hover': '#AE1A1A',
 				content: '#fff',
+				border: '#2c2c2c',
 			},
 		},
 	},
