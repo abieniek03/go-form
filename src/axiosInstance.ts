@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const instance = axios.create({
-	baseURL: 'http://localhost:3500/api',
+	baseURL: 'https://go-form-backend.vercel.app/api',
 });
 
 export default instance;
