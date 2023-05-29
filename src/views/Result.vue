@@ -18,7 +18,7 @@ const navigateToHome = () => {
 };
 
 const getPlan = () => {
-	window.location.href = `http://127.0.0.1:3500/api/download-plan/${planID}`;
+	window.location.href = `https://go-form-backend.vercel.app/api/download-plan/${planID}`;
 };
 
 onMounted(() => {
